@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @saravanans200
 - 👀 I’m interested in Data science
 - 🌱 I’m currently learning Data science
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me email: saravanashanmuganathan35@gmail.com
 
 <!---
